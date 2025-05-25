@@ -11,5 +11,5 @@
     - CU consumed **123** cu
 ----------------------------------------------
 - If you want to write this program in *Anchor* it will suck all of your money :melting_face: :
-    - Program bytecode size **378160** Bytes :exclamation:
+    - Program bytecode size **378,160** Bytes :exclamation:
     - CU consumed **1,171** cu :exclamation:
