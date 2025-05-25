@@ -1,0 +1,17 @@
+[package]
+name = "pinocchio-counter-program"
+version = "1.0.0"
+edition = "2021"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+pinocchio = "0.8.4"
+
+[lib]
+crate-type = [ "cdylib", "lib" ]
+
+[dev-dependencies]
+mollusk-svm = "0.1.5"
+solana-sdk = "2.2.2"
